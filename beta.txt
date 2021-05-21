@@ -43,4 +43,24 @@ lo        Link encap:Local Loopback
 
 vie 21 may 2021 12:18:30 -03
 
+Cristian Fumacoo
 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::67f7:d067:4313:17e  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:9c:20:c8  txqueuelen 1000  (Ethernet)
+        RX packets 61164  bytes 61182263 (61.1 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 32541  bytes 5565500 (5.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 5007  bytes 490031 (490.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5007  bytes 490031 (490.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vie 21 may 2021 12:26:13 -03
