@@ -1,0 +1,6 @@
+Beta:
+a- Después de estos cambios el master queda actualizado a la rama Parral y Acquisto
+b- Si, todos los cambios realizados en las distintas ramas pudieron ser vistos
+c- Los comandos utilizados para hacer el merge fueron: git checkout main / git merge branch-Parral main
+
+
