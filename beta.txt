@@ -20,3 +20,27 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 vie 21 may 2021 11:30:55 -03
+
+Miguel Parral 
+
+eth0      Link encap:Ethernet  HWaddr 08:00:27:a1:bc:af  
+          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+          inet6 addr: fe80::a00:27ff:fea1:bcaf/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:16860 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:6879 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:18626360 (18.6 MB)  TX bytes:1046649 (1.0 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:735 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:735 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:66598 (66.5 KB)  TX bytes:66598 (66.5 KB)
+
+vie 21 may 2021 12:18:30 -03
+
+
