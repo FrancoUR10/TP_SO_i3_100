@@ -1,0 +1,22 @@
+Franco Acquisto
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.37  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:810:551:8672:8b62:60ab:6d35:4df4  prefixlen 64  scopeid 0x0<global>
+        inet6 2800:810:551:8672:fc79:4b54:e9ac:b7e3  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::dee2:26b9:682d:3fad  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:52:34:55  txqueuelen 1000  (Ethernet)
+        RX packets 33674  bytes 26559915 (26.5 MB)
+        RX errors 0  dropped 2  overruns 0  frame 0
+        TX packets 15489  bytes 2269489 (2.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 2211  bytes 221502 (221.5 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2211  bytes 221502 (221.5 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vie 21 may 2021 11:30:55 -03
