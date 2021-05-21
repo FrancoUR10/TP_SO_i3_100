@@ -3,4 +3,16 @@ a- Después de estos cambios el master queda actualizado a la rama Parral y Acqu
 b- Si, todos los cambios realizados en las distintas ramas pudieron ser vistos
 c- Los comandos utilizados para hacer el merge fueron: git checkout main / git merge branch-Parral main
 
+Gamma:
+d- Las ramas credas por BETA y GAMMA no quedan actualizadas por igual al realizar el merge en el main
+e- No tuvimos porblemas al realizar el merge desde las otras ramas hacia el main
+f- 
+git clone para clonar el repositorio
+git checkout para cambiar a la rama de BETA
+git add .
+modificar beta.txt con los datos recopilados haciendo ifconfig > Desktop/ifconfig.txt
+git add .
+git commit -m con la descripcion de lo realizado
+git push --set-upstream origin Acquisto para subir a github en la rama de BETA 
+
 
