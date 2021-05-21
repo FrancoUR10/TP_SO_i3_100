@@ -1,1 +1,2 @@
 Apellido y nombre: Parral Miguel	IP: 192.168.0.12	Hora: 10:37
+Apellido y nombre: Cristian Fumacoo	IP: 192.168.0.1		Hora: 11:37
