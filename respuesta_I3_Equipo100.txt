@@ -16,3 +16,10 @@ git commit -m con la descripcion de lo realizado
 git push --set-upstream origin Acquisto para subir a github en la rama de BETA 
 
 
+Alfa:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git checkout Acquisto
+git add .
+Hice los cambios en el respectivo archivo
+git commit -m
+git push
